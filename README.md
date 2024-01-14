@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4D-FireBat
+- 👋 Hi, I’m Randy!
 - 👀 I’m interested in Video Games, D&D, Music and generally bettering myself.
 - 🌱 I’m currently learning Linux, PowerShell and Python
 - 💞️ I’m looking to collaborate on ... I'll fill this in when I actually know something
